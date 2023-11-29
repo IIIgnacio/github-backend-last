@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    /* Visit https://aka.ms/tsconfig to read more about this file */
+
+    /* Projects */
+
+    /* Language and Environment */
+    "target": "es2017",
+    
+    /* Modules */
+    "module": "commonjs",                               
+    "esModuleInterop": true,                            
+    "forceConsistentCasingInFileNames": true,           
+    /* Type Checking */
+    "strict": true,                                      
+          /* An import path can only end with a '.ts' extension when 'allowImportingTsExtensions' is enabled.ts(5097) */
+    "skipLibCheck": true                                 
+  }
+}
